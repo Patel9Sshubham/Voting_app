@@ -44,8 +44,6 @@ router.post('/signup', async (req, res) => {
     }
 });
 
-
-
 // Login Route
 router.post('/login', async(req, res) => {
     try{
